@@ -1,6 +1,6 @@
 Package: evaluate.regressor
 Title: Calculate common regression performance metrics
-Version: 0.1.0
+Version: 1.1.0
 Authors@R: 
     person("Marco", "Tello", , "mtello.r02@gmail.com", role = c("aut", "cre"))
 Description: This package is built to evaluate regression models utilizing a data.frame with at least two columns: "obs" - target regression values, and "pred" - output predicted values.
